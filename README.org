@@ -2,5 +2,5 @@ This is my manually-synced repository of [[https://bitbucket.org/eeeickythump/or
 
 I don't use mercurial/bitbucket and the version of org-drill
 that is packaged with org-mode is missing [[org-drill.html][documentation]] and
-the example [[spanish.org][spanish.org]]
+the example [[spanish.org][spanish.org]] file.
 
